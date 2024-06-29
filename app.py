@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 from deploy.person_detection import display_demo
 from deploy.overview import display_overview
 
